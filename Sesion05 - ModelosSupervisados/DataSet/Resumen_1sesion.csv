@@ -1,0 +1,13 @@
+name;type;na;mean;disp;median;mad;min;max;nlevs
+Gender;factor;13;NA;NA;NA;NA;112;489;2
+Married;factor;3;NA;NA;NA;NA;213;398;2
+Dependents;factor;15;NA;NA;NA;NA;51;345;4
+Education;factor;0;NA;0.218241042;NA;NA;134;480;2
+Self_Employed;factor;32;NA;NA;NA;NA;82;500;2
+ApplicantIncome;integer;0;5403.459283;6109.041673;3812.5;1822.8567;150;81000;0
+CoapplicantIncome;numeric;0;1621.245798;2926.248369;1188.5;1762.0701;0;41667;0
+LoanAmount;integer;22;146.4121622;85.58732524;128;47.4432;9;700;0
+Loan_Amount_Term;integer;14;342;65.12040985;360;0;12;480;0
+Credit_History;factor;50;NA;NA;NA;NA;89;475;2
+Property_Area;factor;0;NA;0.620521173;NA;NA;179;233;3
+Loan_Status;factor;0;NA;0.312703583;NA;NA;192;422;2

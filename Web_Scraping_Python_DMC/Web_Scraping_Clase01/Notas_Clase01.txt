@@ -1,0 +1,52 @@
+Web Scraping
+-------CLASE 01
+
+denis_palomino
+
+http://survey.dmc.pe/learning/login/index.php
+
+#1palomino_DMC
+
+Profesor: Paulo César Tuya Rodríguez
+pctuya@pucp.pe
+
+css ? sheet 
+
+-- aqui nos permite tener
+colab.research.google.com
+
+h=titulo
+p=parrafo ???
+
+-------CLASE 02
+
+todos los h son titulos en html
+
+- tarea
+extracion de un titulo, un hiperviculo, y la caracteristica q en ejm seria buscar "lenguaje de programacion".
+
+
+---- clase 04
+entrar en google y buscar:
+chrome web driver
+
+-- Clase 05
+
+promt de anaconda
+un spider es un objeto dentro de scrapy, tiene toda la inform para acceder a la web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
